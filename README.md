@@ -1,2 +1,2 @@
 # dsa-practice-LC
-My DSA solutions in Java-LeetCode
+My DSA solutions in Python-LeetCode
